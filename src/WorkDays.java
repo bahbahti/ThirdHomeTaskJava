@@ -1,0 +1,4 @@
+public enum WorkDays {
+    MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY
+}
+
